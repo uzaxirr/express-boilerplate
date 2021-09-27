@@ -3,7 +3,7 @@
 ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-A template for your next backend project integrated with ExpressJS, MongoDB and pino-logger 
+A template for your next backend project integrated with ExpressJS, MongoDB and pino-logger, Simply create a `.env` as directed by [`.env.sample`](https://github.com/uzair-ali10/express-boilerplate/blob/master/.env.sample), enter your [MongoDB Atlas Cluster](https://www.mongodb.com/cloud/atlas) URL and get started 🚀
 
 Send initial get request to `http://localhost:8080/api/main/hi`
 
